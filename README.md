@@ -1,1 +1,1 @@
-El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+El principal objetivo de este desafío es fortalecer mis habilidades en lógica de programación. Aquí debi desarrollar la lógica para resolver el problema y hacerlo totalmente funcional. Para ello me apoye con informacion rescatada desde paginas web, hice un pequeño libro de estudios apoyado por IA y aprendi lo necesario para poder lograr el objetivo.
